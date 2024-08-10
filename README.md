@@ -1,4 +1,8 @@
 
+
+##CHECKOUT THE OUTPUT HERE: https://vaishnavibilla07.github.io/Netflix-Clone/
+
+
 # Netflix Clone
 
 A Netflix Clone project built using HTML, CSS, and JavaScript. This project replicates the user interface of Netflix, including dynamic movie rows, a responsive banner, and integration with the TMDB (The Movie Database) API to fetch and display trending content, originals, and various genres like action, comedy, horror, and more.
