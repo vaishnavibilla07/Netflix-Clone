@@ -2,6 +2,10 @@
 
 ##CHECKOUT THE OUTPUT HERE: https://vaishnavibilla07.github.io/Netflix-Clone/
 
+<img width="1459" alt="Screenshot 2024-08-10 at 4 26 17 PM" src="https://github.com/user-attachments/assets/7e725355-c711-4c51-ba6f-b845bce52e55">
+<img width="1459" alt="Screenshot 2024-08-10 at 4 28 02 PM" src="https://github.com/user-attachments/assets/263bab8e-c4d4-4056-a1a7-26a549a189db">
+
+
 
 # Netflix Clone
 
